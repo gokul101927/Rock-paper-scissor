@@ -1,0 +1,15 @@
+html {
+    font-size: 20px;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkcyan;
+}
+
+body {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
